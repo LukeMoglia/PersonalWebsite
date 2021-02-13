@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+
+}
+
+body {
+    text-align: center;
+
+}
+
+#topBanner {
+    width: 100%;
+    background-color: darkcyan;
+    font-size: 200%;
+}
+
+#webPageLinks {
+    list-style-type: none;
+    display:inline-flex;
+    padding-left: 0;
+}
+
+#socialMediaLinks {
+    list-style-type: none;
+    display:inline-flex;
+    padding-left: 0;
+}
+
+li {
+    padding:0px 10px 0px 10px;
+}
+
+#footer {
+    text-align: center;
+}
