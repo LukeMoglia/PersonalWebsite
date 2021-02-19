@@ -15,17 +15,21 @@ body {
     background-color: skyblue;
     font-size: 300%;
     color: white;
+    padding-bottom: 20px;
+}
+
+#nameHeader {
+    padding-bottom: 20px;
 }
 
 #navBar {
     font-size: 50%;
-    padding-top: 20px;
 }
 
 
 a {
     text-decoration: none;
-    color: gold;
+    color: yellow;
 }
 
 #webPageLinks {
